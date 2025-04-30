@@ -10,5 +10,5 @@ alwaysApply: false
  - readme.md 文章内容
  - images 图片目录
  
-请设计相关插入，并在文章中给出图片描述和对应位置
+请设计相关插图，并在文章中给出图片描述和对应位置
 并更新 [readme.md](mdc:readme.md)
